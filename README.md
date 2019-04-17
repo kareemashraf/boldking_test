@@ -22,4 +22,6 @@ The reason to use Laravel framework is to be as close as possible to the current
 - PS : Keep in mind that as per the requirement No Frontend implemented 
 - app/Http/Controller/Controller.php (the path where it has most of the project) also please check Routes/web.php
 
+- you can test the methods by accessing 127.0.0.1:8000/{functions_Route_name} 
+
 for any questions please dont hesitate to email me
